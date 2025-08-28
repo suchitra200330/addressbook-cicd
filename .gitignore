@@ -1,0 +1,10 @@
+# Ignore system/temp files
+AppData/
+Local/
+*.tmp
+*.log
+
+# Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
